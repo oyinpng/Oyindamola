@@ -1,0 +1,72 @@
+<img src="" alt=""><!DOCTYPE html>
+<html lang="en">
+<head>
+				<title>Page title</title>
+</head>
+<body>
+				<!DOCTYPE html>
+				<html lang="en">
+				<head>
+								<title>Page title</title>
+				</head>
+				<body>
+								<!DOCTYPE html>
+								<html lang="en">
+								<head>
+												<title>Page title</title>
+								</head>
+								<body>
+												<!DOCTYPE html>
+												<html lang="en">
+												<head>
+																<title>Page title</title>
+												</head>
+												<body>
+																<!DOCTYPE html>
+																<html lang="en">
+																<head>
+																				<title>Page title</title>
+																</head>
+																<body>
+																				
+																</body>
+																</html>
+												</body>
+												</html>
+								</body>
+								</html>
+				</body>
+				</html>
+</body>
+</html><! DOCTYPE html>
+<html>
+<head>
+ <title>Contact</title>
+<body  background="src.jpg">
+<center><h3><a href="index.html">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="item.html">Mywork</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="contact.html">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.html">About</a></h3>/</center>
+<h3>Send Us feedback </h3>
+<hr>
+<input type="textarea" name="comment" placeholder="comment here...." >
+<hr>
+<h2>Send us mail through</h2>
+<h4>balogunraheemat@gmail.com</h4>
+<hr>
+<h2>OR</h2>
+<h2>Whatsapp</h2>
+<h4>+2347062127958</h4>
+<center>
+<div><img src="src.jpg" border="4"  ></div>
+<h2>CEO: Oyin</h2>
+<h2>Phone Number: +2347062127958 </h2>
+</center>
+<hr>
+<center>
+<h3>THANKS FOR PATRONAGE</h3> 
+<h2>&#169Oyin Collection</h2>
+<hr>
+</center>
+<hr>
+<marquee><h2>THANKS FOR PATRONAGE&nbsp;&nbsp;&nbsp;&nbsp; Oyin collections</h2></marquee>
+<hr>
+</body>
+</html>

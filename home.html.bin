@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About the author</title>
+</head>
+<body>
+<center><h1>Oyin</h1></center>
+<center>></center>
+<h4>Fax:-- +2347062127957</h4><h4>Online:-- 07062127957></h4></h4>
+</center>
+<center><a href="#">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="item.html">Mywork</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="contact.html">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.html">About</a></center>
+<hr><hr>
+<center><img src="src.jpg"></center>
+<center>
+<h1>Web Design &</h1><h1>Development</h1>
+<h3>Unique Website that convert</h3>
+<h3>visitor into customers and</h3>
+<h3>help your business grow</h3>
+</center>
+<center>
+	<button><a href="item.html">See My Work</a></button>&nbsp;&nbsp;&nbsp; or&nbsp;&nbsp;&nbsp; <button> <a href="contact.html">Get In Touch</a></button> 
+	<hr><hr>
+</center> 
+
+<hr>	
+
+</body>
+</html>
